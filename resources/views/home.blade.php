@@ -40,7 +40,7 @@
 
 <body>
     <div class='flex-center'>
-        <h1> <a href="/">HELLO WORLD</a> </h1>
+        <h1> <a href="/">HOME</a> </h1>
     </div>
 </body>
 </html>
